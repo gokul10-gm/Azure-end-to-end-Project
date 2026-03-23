@@ -1,0 +1,9 @@
+{
+	"name": "spotifygokadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a2bee9f-3e23-4fbb-9a13-a4d5279c4117",
+		"tenantId": "ffe3b169-48e5-47fb-952a-3678d7bc9a79"
+	}
+}
