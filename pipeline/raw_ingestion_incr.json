@@ -312,7 +312,8 @@
 						"activity": "If_incr",
 						"dependencyConditions": [
 							"Failed",
-							"Skipped"
+							"Skipped",
+							"Succeeded"
 						]
 					}
 				],
